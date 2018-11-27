@@ -1,0 +1,4 @@
+<?xml-stylesheet href="chrome://global/locale/intl.css" type="text/css"?><parsererror xmlns="http://www.mozilla.org/newlayout/xml/parsererror.xml">Erreur d’analyse XML : balise ne correspondant pas. Attendu : &lt;/author&gt;.
+Emplacement : https://ponteineptique.github.io/cours-git/cours-2/exemple.xml
+Numéro de ligne 6, Colonne 29 :<sourcetext>            &lt;author&gt;Auteur&lt;/title&gt;
+----------------------------^</sourcetext></parsererror>
